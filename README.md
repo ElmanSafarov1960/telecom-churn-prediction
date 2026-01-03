@@ -1,5 +1,15 @@
 # telecom-churn-prediction
 # Прогнозування відтоку клієнтів телекомунікаційної компанії
+## Project description
+This repository is a fork of the team project developed during GOIT courses.
+
+Original repository:
+https://github.com/ORG/telecom-churn-prediction
+
+## My role in the project
+- Model training and evaluation
+- Contribution to final report and presentation
+
 
 ## Опис проєкту
 Проєкт присвячений розробці **ML-рішення для прогнозування відтоку клієнтів (Customer Churn)** у телекомунікаційній компанії.
